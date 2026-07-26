@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+app.db
+app.db
+*.db
+*.db-shm
+*.db-wal
+zzztest.db
